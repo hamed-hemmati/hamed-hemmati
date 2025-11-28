@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Hamed Hemmati
+# 👋 Hi, I'm Hamed...
 
 I'm an **AI & Data Engineer** focused on building modern, cloud-native data systems and intelligent automation.  
-I design and deploy **LLM-powered workflows**, **RAG systems**, and **scalable ETL/ELT pipelines** across Azure, AWS, and GCP.  
-My work blends **data engineering**, **LLM reasoning**, and **analytical modeling** to enable faster, smarter decision systems.
 
 ---
 
