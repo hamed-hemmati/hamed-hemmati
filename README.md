@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hamed...
+# 👋 Hi, I'm Hamed
 
 I'm an **AI & Data Engineer** focused on building modern, cloud-native data systems and intelligent automation.  
 
